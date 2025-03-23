@@ -1,12 +1,26 @@
-HR Analytics Dashboard
+## 📊 HR Analytics Dashboard – Tableau
 
-Created an HR Analytics Dashboard in Tableau using Excel data, giving
-HR deep insights into employee structure.
-Purpose-
-This helped HR
-1) Plan workforce,
-2) Manage talent, and
-3) Allocate resources strategically,
-4) Boosting efficiency and Overall performance.
+🚀 Project Overview
+This HR Analytics Dashboard provides deep insights into workforce trends, helping HR teams make data-driven decisions. Built using Tableau & Excel, it enables effective workforce planning, talent management, and resource allocation to enhance overall efficiency.
 
-Created the KPI's that clearly reflected the employee count in an organization, attrition count meaning how many employees are leaving the organization (that ultimately helped the HR team to allocate the workforce on time, attrition rate(%), Attrition by Gender, No.of active Employees, Avg. age of the employees working.
+🔥 Key Insights & KPIs:
+
+✔️ Total Employee Count – Overview of workforce size
+
+✔️ Attrition Count & Rate (%) – Tracks employee turnover
+
+✔️ Attrition by Gender – Identifies gender-based trends
+
+✔️ No. of Active Employees – Monitors workforce engagement
+
+✔️ Average Employee Age – Analyzes workforce demographics
+
+🛠️ Tech Stack:
+
+🔹 Tableau – Data Visualization
+
+🔹 Excel – Data Source & Processing
+
+⚡ Why This Matters:
+
+HR teams can use this dashboard to predict workforce trends, reduce attrition, and strategically allocate resources—leading to better employee retention and business success.
