@@ -1,6 +1,7 @@
 ## 📊 HR Analytics Dashboard – Tableau
 
-🚀 Project Overview
+🚀 Project Overview:
+
 This HR Analytics Dashboard provides deep insights into workforce trends, helping HR teams make data-driven decisions. Built using Tableau & Excel, it enables effective workforce planning, talent management, and resource allocation to enhance overall efficiency.
 
 🔥 Key Insights & KPIs:
